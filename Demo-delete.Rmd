@@ -2,7 +2,7 @@
 title: "fun"
 author: "Sage Davis"
 date: "10/20/2021"
-output: html_document
+output: html_documentdhls
 ---
 
 ```{r setup, include=FALSE}
